@@ -1,6 +1,38 @@
 body{
-  background: red;
+  background-image: url(https://w0.peakpx.com/wallpaper/379/833/HD-wallpaper-21-savage-abd-art-music-rap-trap.jpg);
+  background-size: contain;
 }
+
 h3{
   margin-top: 40px;
+}
+
+section{
+  text-align: center;
+  margin-top: 10%;
+  font-size: 1.5em;
+  background: rgba(211, 211, 211, 0.815);
+  width: 60%;
+  margin-left: 20%;
+}
+
+ul li{
+  list-style: none;
+}
+
+input{
+  height: 30px;
+  box-shadow: 2px 2px 2px 2px;
+}
+
+button{
+  height:37px;
+  margin-left: 5px;
+}
+
+button:hover{
+  background: crimson;
+  color: white;
+  cursor: pointer;
+
 }
